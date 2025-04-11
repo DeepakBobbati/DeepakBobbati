@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Deepak – a passionate developer with a love for building clean, scalable, and efficient software. I enjoy exploring new technologies and applying them to solve real-world problems.<br><br>💻 I work with:<br><br>Languages: JavaScript, Python, Java<br><br>Frameworks: React, Node.js<br><br>Tools: Git, VS Code<br><br>Databases: MYSQL<br><br>🌱 Always curious and always learning.<br><br>📫 Let's connect!<br><br>LinkedIn: https://www.linkedin.com/in/laxmi-deepak-bobbati-916166325/<br><br>Email: laxmideepakbobbati@gmail.com
+Hi, I'm Deepak – a passionate developer with a love for building clean, scalable, and efficient software. I enjoy exploring new technologies and applying them to solve real-world problems.<br><br> 🌱 Always curious and always learning.<br><br>📫 Let's connect!<br><br>LinkedIn: https://www.linkedin.com/in/laxmi-deepak-bobbati-916166325/<br><br>Email: laxmideepakbobbati@gmail.com
 
 
 ## 🌐 Socials:
